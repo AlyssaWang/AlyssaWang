@@ -11,9 +11,6 @@
 - Open source frontend developer for [Inferno](https://inferno.healthit.gov/) 
 - Primarily working on frontend applications with data visualization and dashboard features
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssaWang&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 📜 Historically...
 
 - BA in Computer Science and Comparative Literature @ [Williams College](https://www.williams.edu/)
