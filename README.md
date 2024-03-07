@@ -16,11 +16,9 @@
 
 ## 📜 Historically...
 
-- 2020: BA in Computer Science and Comparative Literature @ [Williams College](https://www.williams.edu/)
+- BA in Computer Science and Comparative Literature @ [Williams College](https://www.williams.edu/)
 - 2020: Research Assistant in HCI @ Williams College
-- 2019: Intern on team Angular @ Google
-- 2018: Intern on team Local Search UI @ Google
-- 2019: Intern on team Chrome User Metrics @ Google
+- 2017-2019: Intern @ Google, including on team Angular
 - Frequent hackathon attendee
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyssaWang&hide=stars,issues&hide_rank=true&show=reviews,prs_merged&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
