@@ -1,8 +1,9 @@
 ### `Alyssa Wang` *she/her*
 
-**Currently**: Senior Software Engineer @ [MITRE](https://www.mitre.org/)
+Senior Software Engineer @ [MITRE](https://www.mitre.org/) | NYC Metropolitan Area
 
-**Location**: NYC Metropolitan Area
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyssaWang&hide=stars,issues&hide_rank=true&show=reviews,prs_merged&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🌞 These Days...
 
@@ -14,8 +15,6 @@
 - BA in Computer Science and Comparative Literature @ [Williams College](https://www.williams.edu/)
 - Research Assistant in HCI @ Williams College
 - Intern @ Google, incl. on Angular
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyssaWang&hide=stars,issues&hide_rank=true&show=reviews,prs_merged&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👭 Connections
 
