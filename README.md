@@ -7,7 +7,6 @@ Senior Software Engineer @ [MITRE](https://www.mitre.org/) | NYC Metropolitan Ar
 
 ## 🌞 These Days...
 
-- Open source frontend developer for [Inferno](https://inferno.healthit.gov/) 
 - Primarily working on frontend applications with data visualization and dashboard features
 
 ## 📜 Historically...
@@ -15,6 +14,7 @@ Senior Software Engineer @ [MITRE](https://www.mitre.org/) | NYC Metropolitan Ar
 - BA in Computer Science and Comparative Literature @ [Williams College](https://www.williams.edu/)
 - Research Assistant in HCI @ Williams College
 - Intern @ Google, incl. on Angular
+- Open source frontend developer for [Inferno](https://inferno.healthit.gov/) 
 
 ## 👭 Connections
 
